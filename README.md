@@ -2,4 +2,4 @@
 
 ## Key files
 
-* [Programming style guide](docs/StyleGuidelines.mdr)
+* [Programming style guide](docs/StyleGuidelines.md)
