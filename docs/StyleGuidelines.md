@@ -121,6 +121,7 @@ foo = bar + 1; // Right
 
 * Braces should be on their own lines and be inline with the parent.
 * Single line if statements should be surrounded by braces
+* the exception to this is return calls in header files
 ~~~~~~~~~~~~~~~{.cpp}
 // Wrong
 if (foo == bar)
@@ -172,6 +173,10 @@ else
 {
 	... // more code
 }
+
+//Right ONLY in headers
+
+bool foo {return bar};
 ~~~~~~~~~~~~~~~
 
 * Case statements should indent another level
