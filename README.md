@@ -4,11 +4,12 @@
 The components/licenses are organized by software component as follows:
 
 File | Component | Techology
-`BrainBuilder.md` | Brain Builder, front end | Javascript
-`BrainBank.md` | Brain Builder, back end | Javascript
-`Inspector.md` | Inspector | Javascript
-`SDK.md` | Brain Builder SDK | C++
+------------ | ------------- | -------------
+`BrainBuilder.md` | _Brain Builder_, front end | Javascript
+`BrainBank.md` | _Brain Builder_, back end | Javascript
+`Inspector.md` | _Inspector_ | Javascript
+`SDK.md` | _Brain Builder SDK_ | C++
 
-**Note:** BrainBank is part of Brain Builder
+**Note:** Brain Bank is part of _Brain Builder_
 
-**Note:** SDK is part of both Brain Builder as well as Inspector
+**Note:** _SDK_ is part of both _Brain Builder_ as well as _Inspector_
