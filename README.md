@@ -4,7 +4,6 @@
 The components/licenses are organized by software component as follows:
 
 File | Component | Techology
------------- | ------------- | -------------
 `BrainBuilder.md` | Brain Builder, front end | Javascript
 `BrainBank.md` | Brain Builder, back end | Javascript
 `Inspector.md` | Inspector | Javascript
