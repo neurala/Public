@@ -11,4 +11,5 @@ Inspector.md | NEurala VIA Inspector
 SDK.md | Neurala Brain Builder SDK
 
 Note: BrainBank is part of Brain Builder
+
 Note: SDK is part of both Brain Builder as well as Inspector
