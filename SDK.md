@@ -27,3 +27,4 @@ When run as part of Neurala VIA solution, the following libraries are also used:
 | [nVidia TensorRT](https://developer.nvidia.com/nvidia-tensorrt-download) | 7.0 | [commercial](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sla/index.html) |
 | [cpp-httplib](https://github.com/yhirose/cpp-httplib) | 0.5.10 | MIT |
 | [libmodbus](https://github.com/stephane/libmodbus) | v3.1.6 | LGPL-2.1 |
+| [Pleora eBus SDK](https://supportcenter.pleora.com/s/topic/0TO340000004X6dGAE/ebus-sdk) | 6.1.4 | _closed source_, VIA license includes eBus RX license |
