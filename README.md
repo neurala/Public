@@ -8,7 +8,7 @@ File | Component | Techology
 [BrainBuilder.md](https://github.com/neurala/Public/blob/master/BrainBuilder.md) | _Brain Builder_, front end | Javascript
 [BrainBank.md](https://github.com/neurala/Public/blob/master/BrainBank.md) | _Brain Builder_, back end | Javascript
 [Inspector.md](https://github.com/neurala/Public/blob/master/Inspector.md) | _Inspector_ | Javascript
-[SDK.md](https://github.com/neurala/Public/blob/master/SDK.md) | _Brain Builder SDK_ | C++
+[AIEngine.md](https://github.com/neurala/Public/blob/master/AIEngine.md) | _Neurala AI Engine_ | C++
 [DetectorTrainingService.md](https://github.com/neurala/Public/blob/master/DetectorTrainingService.md) | _Detector training service_ | Python
 
 **Note:** Brain Bank is part of _Brain Builder_
