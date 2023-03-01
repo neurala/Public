@@ -1,5 +1,4 @@
-Neurala Detector training service uses the following libraries:
-
+Neurala detector training service uses the following libraries in every variant:
 | Library |	Version |	License |
 | ------------------------------------------------------------------------------------------------- | -------------- | ------------ |
 | [Babel](https://babel.pocoo.org/) |	2.11.0 |	BSD License |	
@@ -134,7 +133,7 @@ Neurala Detector training service uses the following libraries:
 | [tensorboard](https://github.com/tensorflow/tensorboard) |1.15.0 |Apache Software License v2.0 |
 | [tensorboardX](https://github.com/lanpa/tensorboardX) |2.5.1 |MIT License |
 | [tensorflow](https://www.tensorflow.org/) |1.15.5 |Apache Software License |
-| [tensorflow-estimator](Apache Software License |https://www.tensorflow.org/) |1.15.1 |
+| [tensorflow-estimator](https://www.tensorflow.org/) |1.15.1 | Apache Software License |
 | [termcolor](https://github.com/termcolor/termcolor) |2.2.0 |MIT License |
 | [terminado](https://github.com/jupyter/terminado) |0.17.1 |BSD License |
 | [tf-slim](https://github.com/google-research/tf-slim) |1.1.0 |Apache Software License |
@@ -160,3 +159,51 @@ Neurala Detector training service uses the following libraries:
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) |1.14.1 |BSD License |
 | [zipp](https://github.com/jaraco/zipp) |3.12.0 |MIT License |
 | [zope.interface](https://github.com/zopefoundation/zope.interface) |5.5.2 |Zope Public License |
+
+Libraries only used on the variant present in the cloud version of Brain Builder:
+| Library |	Version |	License |
+| ------------------------------------------------------------------------------------------------- | -------------- | ------------ |
+| [Cython](http://cython.org/)  | 0.29.33  | Apache Software License  | 
+| [Mako](https://www.makotemplates.org/)  | 1.2.4  | MIT License  | 
+| [cgroup-utils](https://github.com/peo3/cgroup-utils)  | 0.8  | GNU General Public License v2 (GPLv2)  | 
+| [contextlib2](http://contextlib2.readthedocs.org)  | 21.6.0  | Apache Software License; Python Software Foundation License  | 
+| [leveldb](https://code.google.com/p/py-leveldb/)  | 0.201  | BSD License  | 
+| [lvis](https://pypi.org/project/lvis/)  | 0.5.3  | BSD 2-Clause  | 
+| [lxml](https://lxml.de/)  | 4.9.2  | BSD License  | 
+| [nvidia-cublas-cu11](https://developer.nvidia.com/cuda-zone)  | 2022.4.8  | NVIDIA Proprietary Software  | 
+| [nvidia-cublas-cu117](https://developer.nvidia.com/cuda-zone)  | 11.10.1.25  | Other/Proprietary License  | 
+| [nvidia-cuda-runtime-cu11](https://developer.nvidia.com/cuda-zone)  | 2022.4.25  | NVIDIA Proprietary Software  | 
+| [nvidia-cuda-runtime-cu117](https://developer.nvidia.com/cuda-zone)  | 11.7.60  | Other/Proprietary License  | 
+| [nvidia-cudnn-cu11](https://developer.nvidia.com/cuda-zone)  | 2022.5.19  | NVIDIA Proprietary Software  | 
+| [nvidia-cudnn-cu116](https://developer.nvidia.com/cuda-zone)  | 8.4.0.27  | Other/Proprietary License  | 
+| [nvidia-pyindex](http://www.nvidia.com/)  | 1.0.9  | Apache Software License  | 
+| [nvidia-tensorrt](https://developer.nvidia.com/tensorrt)  | 99.0.0  | Other/Proprietary License  | 
+| [pexpect](https://pexpect.readthedocs.io/)  | 4.8.0  | ISC License (ISCL)  | 
+| [platformdirs](https://github.com/platformdirs/platformdirs)  | 2.6.2  | MIT License  | 
+| [ptyprocess](https://github.com/pexpect/ptyprocess)  | 0.7.0  | ISC License (ISCL)  | 
+| [pycuda](http://mathema.tician.de/software/pycuda)  | 2021.1  | MIT License  | 
+| [python-gflags](https://github.com/google/python-gflags)  | 3.1.2  | BSD License  | 
+| [pytools](http://pypi.python.org/pypi/pytools)  | 2022.1.12  | MIT License  | 
+| [tensorrt](https://developer.nvidia.com/tensorrt)  | 8.5.3.1  | Other/Proprietary License  | 
+| [uvloop](http://github.com/MagicStack/uvloop)  | 0.17.0  | Apache Software License; MIT License  | 
+
+Libraries only used on the variant present in the on-premises version of Brain Builder:
+| Library |	Version |	License |
+| ------------------------------------------------------------------------------------------------- | -------------- | ------------ |
+| [Markdown](https://Python-Markdown.github.io/)  | 3.4.1  | BSD License  | 
+| [Werkzeug](https://palletsprojects.com/p/werkzeug/)  | 2.2.3  | BSD License  | 
+| [aiofiles](https://github.com/Tinche/aiofiles)  | 22.1.0  | Apache Software License  | 
+| [aiosqlite](https://aiosqlite.omnilib.dev)  | 0.18.0  | MIT License  | 
+| [jupyter-events](https://jupyter.org)  | 0.6.3  | BSD License  | 
+| [jupyter-server-fileid](https://github.com/jupyter-server/jupyter_server_fileid)  | 0.7.0  | BSD License  | 
+| [jupyter-server-ydoc](https://github.com/jupyterlab/jupyterlab_collaboration)  | 0.6.1  | BSD License  | 
+| [jupyter-ydoc](https://github.com/jupyter-server/jupyter_ydoc)  | 0.2.2  | BSD 3-Clause License  | 
+| [jupyterlab](https://jupyter.org)  | 3.6.1  | BSD License  | 
+| [mpmath](http://mpmath.org/)  | 1.2.1  | BSD License  | 
+| [pyreadline](http://ipython.org/pyreadline.html)  | 2.1  | BSD License  | 
+| [python-json-logger](http://github.com/madzak/python-json-logger)  | 2.0.6  | BSD License  | 
+| [rfc3339-validator](https://github.com/naimetti/rfc3339-validator)  | 0.1.4  | MIT License  | 
+| [rfc3986-validator](https://github.com/naimetti/rfc3986-validator)  | 0.1.1  | MIT License  | 
+| [sympy](https://sympy.org)  | 1.10.1  | BSD License  | 
+| [y-py](https://github.com/y-crdt/ypy)  | 0.5.5  | MIT License  | 
+| [ypy-websocket](https://github.com/y-crdt/ypy-websocket)  | 0.8.2  | MIT License  | 
