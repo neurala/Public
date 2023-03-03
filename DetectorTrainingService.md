@@ -30,7 +30,6 @@ Neurala detector training service uses the following libraries in every variant:
 | [colorama](https://github.com/tartley/colorama) |	0.4.6 |	BSD License |
 | [coloredlogs](https://coloredlogs.readthedocs.io) |	15.0.1 |	MIT License |
 | [cycler](https://github.com/matplotlib/cycler) |	0.11.0 |	BSD License |
-| [debugpy](https://aka.ms/debugpy) |	1.6.6 |	Eclipse Public License 2.0 (EPL-2.0); MIT License |
 | [decorator](https://github.com/micheles/decorator) |	5.1.1 |	BSD License |
 | [defusedxml](https://github.com/tiran/defusedxml) |	0.7.1 |	Python Software Foundation License |	
 | [desert](https://github.com/python-desert/desert) |	2020.11.18 |	MIT License |
