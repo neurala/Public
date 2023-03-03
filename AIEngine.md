@@ -46,13 +46,11 @@ The Neurala AI Engine is using the following libraries:
 | [SG-Lock](https://www.sg-lock.com/) | 2.29+ | commercial |
 | [TFLite](https://www.tensorflow.org/lite/) | 2.5.0 | Apache Software License (Apache 2.0) |
 | [Caffe-SSD](https://github.com/weiliu89/caffe) | Forked from commit `289b10ee` | Shared Copyright, Commercial use authorized, https://github.com/weiliu89/caffe/blob/master/LICENSE |
-| [SNPE](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) | 1.66.0 | commercial license |
 
 ## Conversion toolchain (Additional)
 
 | Library | Version | License | 
 | ------------- | ------------- | ------------- |
-| [coremltools](https://github.com/apple/coremltools) | 5.2.0 | [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause), Copyright (c) 2020, Apple Inc. All rights reserved. |
 | [defusedxml](https://github.com/tiran/defusedxml) | 0.7.1 | [Python Software Foundation License (PSFL)](https://github.com/tiran/defusedxml/blob/main/LICENSE) |
 | [fastjsonschema](https://github.com/horejsek/python-fastjsonschema) | 2.15.3 | [BSD License (BSD)](https://github.com/horejsek/python-fastjsonschema/blob/master/LICENSE) |
 | [imgaug](https://github.com/aleju/imgaug) | 0.4.0 | [MIT License (MIT)](https://github.com/aleju/imgaug/blob/master/LICENSE) |
